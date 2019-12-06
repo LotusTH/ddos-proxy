@@ -1,1 +1,1 @@
-# ddos-proxy
+python3 ddos.py
